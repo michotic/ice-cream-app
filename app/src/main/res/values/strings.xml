@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ice Cream Store</string>
+    <string name="bowl_type">Bowl</string>
+    <string name="cone_type">Cone</string>
+</resources>
